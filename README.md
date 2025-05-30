@@ -1,4 +1,4 @@
-# ativarduino
+# Atividade para a disciplina de Dispositivos Móveis II
 
 A new Flutter project.
 
